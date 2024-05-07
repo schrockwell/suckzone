@@ -1,0 +1,48 @@
+---
+layout: post
+title: Ponca City bust
+summary: The moderate risk in SE KS didn't pan out
+galleryflashvars: host=picasaweb.google.com&hl=en_US&feat=flashalbum&RGB=0x000000&feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fschrockwell%2Falbumid%2F5345546578239751905%3Falt%3Drss%26kind%3Dphoto%26hl%3D
+published: true
+category: summary
+archived: true
+---
+
+h3. Summary
+
+* *"Route map":http://maps.google.com/maps/ms?source=s_q&hl=en&geocode=&ie=UTF8&msa=0&msid=106942326439865455629.00046bf675a403dbf77c7&ll=36.230981,-97.23999&spn=2.153412,4.943848&z=8*
+* *Trip meter:* about 350 miles
+* *Time:* 10 hours
+* *From:* Norman, OK, to Winfield, KS, to Ponca City, OK, back to Norman
+* *States:* Oklahoma, Kansas
+* *Summary:* The moderate risk for southeastern Kansas never panned out! The shear was not at all what was expected. Intercepted some small cells near Ponca City, but it quickly became an MCS.
+
+h3. The set-up
+
+Today was the day. A moderate risk in early June is no joke, and we took this one seriously. Too seriously.
+
+The conditions were relatively good: high dewpoints, high temps with decent surface heating throughout the day, sufficient mid-level jet, and some shear. There was also a nice boundary set up by an MCS churning through west-central KS and into MO that morning.
+
+I hate to ruin the ending, but the 850mb winds veered sharply as the day went on. The surface winds were already out of the southwest, so this removed nearly all the low-level shear. Poor storm organization led storms to quickly evolve into the multicellular mode.
+
+h3. The chase
+
+We left Norman around 1 PM, cruising north on I-35 with Wichita as our target. There was a bulls-eye of good instability and shear that had Wichita at its center. A tornado watch soon went out.
+
+I went with Doug Crauder, Derek, and John Lloyd. We met up with Doug's parents along I-35 near Stillwater, OK and swapped cars. The six of us piled into their minivan and continued on northward.
+
+But, wait! That MCS boundary, parallel with the KS/OK border, didn't stall north of Wichita as expected. It continued to truck southward and soil the air behind it. We got off the interstate far south of Wichita and decided to go eastward. Though we heard that V2 was far to our west, we thought there were better conditions to the east, and development in the sky just _looked_ better that way.
+
+We sat north of Winfield, KS for an hour or so, just waiting patiently and watching. There were several other chasers and spotters out and about. We were waiting for something to develop, and we watched tower after cumulus tower explode upward. It was really fantastic to watch everything come together in the atmosphere. However, nothing was able to get going, so we ducked back south along Route 77 back into OK. We cut off a small, ongoing storm that was heading east across our path. We got some rain and a few seconds of pea-size hail.
+
+We then went west from Ponca City, OK and got trapped between this cell and another one to its southwest. We danced around and did a good job avoiding and major precipitation cores from these storms. It was fun and a little hairy at times because we were trying to avoid some major greenage (monster hail) in the storms, though we were never really in danger. The crosswinds were really strong, but we eventually turned back south on Route 156 and escaped. 
+
+The southern storm initially looked really nice. It had a nice clear updraft that may have been broadly rotating. As it passed _over_ us we again went south and stopped to watch, but by now it had simply dissipated into nothingness. This was along Route 156, SW of Ponca City, in Noble County.
+
+Meh. It was getting dark, and nothing else showed any sign of further development. We took Route 177 back to Doug's house for a bit, had a brief tour of the OSU campus (it's nice!), then went back to the Stillwater exit in I-35 and swapped the cars again. We got back to Norman around 11 PM.
+
+h3. Acknowledgements
+
+Thanks to Doug's parents for letting us use the minivan! I hope they had a fun trip, and that we didn't alienate them too much with our vernacular and TLAs (three letter acronyms).
+
+Also, I had fun chasing with a whole team of people. It's great to divvy up the workload between driving, navigating, looking at data, and listening to the radio. We also were able to reach unanimous decisions pretty easily. Overall we made a good team. I hope I get to chase with these guys again.

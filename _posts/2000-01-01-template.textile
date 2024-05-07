@@ -1,0 +1,18 @@
+---
+layout: post
+title: title
+summary: summary
+galleryflashvars: vars
+published: false
+category: summary
+archived: false
+---
+
+* *"Route map":url*
+* *"Photo gallery":url*
+* *Trip meter:* 
+* *Time:* 
+* *From:* 
+* *Summary:* 
+
+content

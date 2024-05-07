@@ -1,0 +1,31 @@
+---
+layout: post
+title: Outbound leg 2
+archived: true
+---
+
+* *"Route map":http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=106942326439865455629.00046a39234edb49844da&ll=40.946714,-87.077637&spn=8.064178,19.775391&z=6*
+* *Trip meter:* 684 miles (1330 miles total)
+* *Time:* About 11 hours
+* *From:* Zanesville, OH to Newton, IA
+* *States:* Ohio, Indiana, Illinois, Iowa
+* *Summary:* Another flawless drive
+* *Weirdest town names:* What Cheer, Normal
+
+Today was more of the same, except I didn't get lost this time. The weather was perfect for driving, traffic was minimal, and there was a lot of construction but nearly no slowdowns.
+
+h3. Forecast discussion
+
+Tomorrow, a weak low pressure forms in the ND/SD area as a cold front dives southeast across SD and NE. There will be some moisture in this area. Combined with the cold front, there becomes a chance of isolated, high-based, moisture-starved supercells.
+
+The winds look good at all levels. There is instability and lift present along the cold front. Assuming I can get there in time, and I get the right location, I think tomorrow might yield some fun, easy-to-chase storms, once I track them down.
+
+h3. Target area
+
+I think I need to get further north, no matter what. Also west. So, northwest. I will take I-80 west and then I-29 north to Sioux City, at which point I will deviate from the interstate for the first time this trip and take Route 20 west to Valentine, NE. If the cold front has not yet met up with me by this point, then I will sit in Valentine and take it from there.
+
+It will take about 6&ndash;7 hours to get to Valentine. If I leave around 8 AM, this places me in Valentine around 3 PM. I hope this is enough time.
+
+Follow along on the "live map":/storm-blog/map.html and "on Twitter":http://twitter.com/suckzone. 
+
+And wish me luck!

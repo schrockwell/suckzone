@@ -1,0 +1,3 @@
+baseurl: /storm-blog
+plugins:
+  - jekyll-textile-converter

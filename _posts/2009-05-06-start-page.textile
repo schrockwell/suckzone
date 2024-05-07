@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Chaser tools: the start page"
+published: true
+archived: true
+---
+
+When you're out in the field chasing, getting and analyzing atmospheric data can be a crucial part of the day's success. Many chasers have a special Web page where they link to commonly-used online weather maps and data sources. The pages are typically simple and text-based so they load quickly over a slow, spotty Internet connection.
+
+I've populated "my own start page":start with my favorite data sources in a variety of different data types. 
+
+The page's design fulfills a few design requirements:
+
+* The entire layout fits on the display of my laptop (1024 x 600)
+* The links are large, so that they are easy to see and click
+* The links cover broad range of both time (daily trends and real-time) and location (local, regional, and national)
+
+Firefox and Safari users will see nice, rounded edges on those links.
+
+The current time is displayed in UTC, because all the weather maps are based in this time zone and I never have any freakin' clue how to convert it, especially when I'm dancing between Central and Mountain time. It's crucial that the computer's clock and time zone are set properly, however, because the calculation is based off the system clock.
+
+I'll probably tweak this over time as I find that it meets certain needs and fails to meet others. 
+
+_Bonus feature:_ I just found "the old start page":start-old from when Jake and I went storm chasing in 2007. I thought, when making this latest page, that I was being clever with the categorization of data into "today" and "now". I guess I was just copying myself.
+
+[start]http://rockwellschrock.com/storm-chasing/start.html
+[start-old]http://rockwellschrock.com/storm-chasing/start-old.html

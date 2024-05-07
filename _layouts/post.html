@@ -1,0 +1,26 @@
+---
+layout: main
+---
+
+<h2>
+	<a class="invisible" href="{{ post.url }}">
+		{{ page.date | date: '%B %d, %Y' }} &ndash; 
+		{{ page.title }}
+	</a>
+</h2>
+
+{% if page.galleryflashvars %}
+	<p style="text-align:center">
+		<embed type="application/x-shockwave-flash" src="http://picasaweb.google.com/s/c/bin/slideshow.swf" width="510" height="340" 
+		flashvars="{{ page.galleryflashvars }}" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>			
+	</p>
+{% endif %}
+
+{{ content }}
+
+<div style="margin: 3em 0; border-bottom: 1px solid #CCCCCC"></div>
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="http://disqus.com/forums/suckzone/embed.js"></script>
+<noscript><a href="http://suckzone.disqus.com/?url=ref">View the discussion thread.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>

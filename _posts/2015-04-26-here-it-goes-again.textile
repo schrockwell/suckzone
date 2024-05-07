@@ -1,0 +1,25 @@
+---
+layout: post
+title: Here it goes again
+summary: Getting ready for 2015
+published: false
+archived: false
+---
+
+Okay, so here's the deal. This is kind of a last-minute thing.
+
+I had plans to be in Dayton, Ohio for the "Hamvention":http://hamvention.org/ &ndash; the biggest, dirtiest, most infamous ham radio convention in existence &ndash; on the weekend of May 16. So what's another week on the Plains?
+
+After Dayton, Jess and I will fly to Kansas City and take a rental car from there for a week. On May 24 we fly back home from Kansas City.
+
+It's really nerve-wracking to schedule these Chasecations in advance. In 2011, we were chasing the same exact week in May, but it was very slow going. We could hit the jackpot, or we could catch a sunburn. There's no way to tell but to make plans, expect the worst, and hope for the best.
+
+h3. Bits and bytes
+
+I'm taking the technology in a new direction this year. With my own vehicle, I could make custom mounts for everything in advance. However, we're in a rental car this time, so whatever I bring has to fit in my luggage, and has to be flexible enough to accomodate different mounting scenarios.
+
+As for streaming, I'd like to keep it simple as possible. I don't want to muck around with GPS uploaders and worrying about keeping a reliable stream going. There's enough going on during a chase as it is. If it works, it works. 
+
+I'll probably use "Twitter Periscope":https://www.periscope.tv/ for streaming. Follow "@suckzone":https://twitter.com/suckzone or watch the sidebar on this page for when I go live. Or, more preferrably, "download Periscope":https://itunes.apple.com/app/id972909677 on your favorite iOS device and follow @suckzone for real-time notifications.
+
+I will post more about the technology pieces as I get everything together this week.

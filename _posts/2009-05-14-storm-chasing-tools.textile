@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Video: Storm chasing high technology"
+published: true
+archived: true
+---
+
+I was going to write a long and detailed post about the multitude of technology that populates my chase vehicle. Instead, this brief video will have to temporarily suffice.
+
+There are also "some pictures of the equipment":http://picasaweb.google.com/schrockwell/Preparaton?authkey=Gv1sRgCP6QgZ-IkvsF&feat=directlink.
+
+p=. <object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/lPW68sK6bH8&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/lPW68sK6bH8&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295"></embed></object>

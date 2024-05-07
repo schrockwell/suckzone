@@ -1,0 +1,22 @@
+<div class="indexPost">
+	<h2>
+		<a class="invisible" href="/storm-blog{{ post.url }}">
+			{{ post.date | date: "%B %d, %Y" }} &ndash; 
+			{{ post.title }}
+		</a>
+	</h2>
+	
+	{% if post.galleryflashvars %}
+		<p style="text-align:center">
+			<embed type="application/x-shockwave-flash" src="http://picasaweb.google.com/s/c/bin/slideshow.swf" width="510" height="340" 
+			flashvars="{{ post.galleryflashvars }}" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>			
+		</p>
+	{% endif %}
+	
+	{{ post.content }}
+	
+	<p class="bottom quiet" style="font-style:italic;">
+		<a class="quiet" href="/storm-blog{{ post.url }}#disqus_thread">View Comments</a>
+	</p>
+	<div style="clear:both"></div>
+</div>

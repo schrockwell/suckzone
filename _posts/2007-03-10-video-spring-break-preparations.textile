@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Video: Spring Break Preparations"
+archived: true
+---
+
+<div style="text-align: center">
+	<embed align="middle" flashvars="playerMode=embedded" salign="TL" scale="noScale" bgcolor="#ffffff" quality="best" src="http://video.google.com/googleplayer.swf?docId=-6302705678129860588&amp;hl=en" type="application/x-shockwave-flash" id="VideoPlayback" style="width: 400px; height: 326px;">
+</div>

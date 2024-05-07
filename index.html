@@ -1,0 +1,12 @@
+---
+layout: main
+big_map: false
+---
+
+{% for post in site.posts %}
+
+	{% if post.archived %}
+	{% else %}
+		{% include post.html %}
+	{% endif %}
+{% endfor %}

@@ -1,0 +1,32 @@
+---
+layout: post
+title: Beginning the internship
+galleryflashvars: host=picasaweb.google.com&hl=en_US&feat=flashalbum&RGB=0x000000&feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fschrockwell%2Falbumid%2F5342077170637387105%3Falt%3Drss%26kind%3Dphoto%26hl%3Den_US
+archived: true
+---
+
+The first week of my internship is complete! At lot has happened since I arrived a week ago. I'm settled into my apartment and am getting to know my roommates. I know where the closest Wal-Mart is, and I'm already starting to know my way around Norman. Today I took my longboard for a ride around campus to get to know it a little better. It's 93 degrees here, but it's a dry heat! I barely even broke a sweat because the relative humidity is only 21%.
+
+The NCAA Division I Norman Regional baseball tournament is occurring at the baseball field outside my window right now. As I'm writing this, OU just hit a grand slam and the crowd went wild. They lost last night, so things are looking up for them now.
+
+We're living in the apartments with many students who are also visiting from across the country. The REU program has a weather research program at the National Weather Center, as well, and everyone here gets along great. There are even students here on a golf management internship.
+
+h3. The workplace
+
+Working at the NWC is a real treat. I'm quickly learning exactly how small the field of meteorology really is. For a scientific field with such a strong focus in both research and real-world operations, it's always surprising how tightly-kniw it is. You do something great, and the whole world knows about it. You goof, and you never hear the end of it. Someone told me about Hollings students who went chasing last year, and their car broke down near the path of a tornado. The heckling went on for weeks.
+
+Of course, this makes it trivial to form professional connections. There are probably no more than two or three degrees of separation between any two people in the field, especially when so many are under the same roof. Opportunities open up simply by _talking_ to the right people. I guess this is how it works in the real world.
+
+It's really neat when you have seen someone's name plastered on weather forecasts, academic papers, and on television, and then one day you happen to walk by their office.
+
+h3. The project
+
+My project is coming along slowly, but surely. I've been playing a lot with the Sphere, trying to get a feeling for how to best utilize it. It's also tricky to get videos and images in the proper format for displaying, and this is a major hurdle that I think I've figured out.
+
+Once I get some more content, I'll be able to post some pictures as the project progresses.
+
+h3. The weather
+
+The weather here has been hot. And sunny. And dry. Meh.
+
+Hopefully that will change come Tuesday. As some better moisture makes its way back into the region, we have the potential for some good storms. We're in a "slight risk" area for Tuesday, so my fingers are crossed.

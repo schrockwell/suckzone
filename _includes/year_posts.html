@@ -1,0 +1,7 @@
+{% for post in site.posts reversed %}
+	{% capture year %}{{ post.date | date:'%Y' }}{% endcapture %}
+	
+	{% if year == include.year %}
+		{% include post.html %}
+	{% endif %}
+{% endfor %}

@@ -1,0 +1,45 @@
+---
+layout: post
+title: Nebraska Route 2 chase
+summary: Perfect day! I chased the best cell of the day and had a great time tracking it down and meeting other chasers.
+category: summary
+galleryflashvars: host=picasaweb.google.com&hl=en_US&feat=flashalbum&RGB=0x000000&feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fschrockwell%2Falbumid%2F5338141990176003729%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCK2YjKrL-uXH2QE%26hl%3Den_US
+archived: true
+---
+
+h3. Video
+
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/JQ0k-jrIcsw&hl=en&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/JQ0k-jrIcsw&hl=en&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+
+h3. Write-up
+
+* *"Route map":http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=106942326439865455629.00046a39234edb49844da&ll=41.352072,-97.305908&spn=4.007877,9.887695&z=7*
+* *Trip meter:* 703 miles (2033 miles total)
+* *Time:* About 14 hours
+* *From:* Newton, IA to North Platte, NE
+* *States:* Iowa, Nebraska
+* *Summary:* Perfect day! I chased the best cell of the day and had a great time tracking it down and meeting other chasers.
+
+AHHHH what an amazing day. Where to begin?
+
+I left Newton, IA at 8 AM sharp and cruised westward on I-80. Based on the SPC outlook and the locations of other chasers, I decided to skip going north in I-29 and instead took I-80 all the way across Nebraska.
+
+Iowa had strong, gusty, southerly winds that made driving difficult, but the winds decreased as I made it further into NE. The sky was mostly cirrus and cirrostratus - nothing too promising! I drove and drove and drove and finally some cumulus bumps appeared on the horizon, in a line. I ended up driving through this line, which would later become a linear multicell system that I would not chase. This turned out to be the right choice, though I doubted myself at first.
+
+I made it into North Platte around 2:15 CDT. I could go north, directly towards the cold front, or continue west towards the area of better moisture convergence. Some storms had already formed in eastern Wyoming and northeastern Colorado, and everyone else was out west, so I followed.
+
+An hour later I cruised into Ogallala, gassed up, and booked it northward on Route 61. Into the sandhills I went. I stopped a few times to observe the new, small storms approaching to my northwest. I met up with some other chasers who were watching and waiting for the storm that I would eventually end up chasing all day.
+
+We were just south of Hyannis. As the storm approached, I could begin to make out its solid, smooth updraft base. The precipitation was separated off to the north. GRLevel3 showed some weak to moderate rotation. I went north of Hyannis on 61, hoping to run into the VORTEX2 crew. A local told me they were in the town earlier, so I must have missed them.
+
+I wanted to continue north, again towards the cold front, but then I thought about it and that didn't make any sense. I had a storm right here, in front of me. I'd just stay in front of it and see how it went.
+
+Well, how it went! I went east on Route 2, staying in front of the storm as I would stop, snap some shots and video, then hop in the car and cruise ahead. Chaser convergences were common along this road as we all were treated to the "cell of the day".
+
+I ducked back south on Route 83 to try to skirt in front of the storm to get some pics. Unfortunately, I cut it too close! As I watched the clouds engulf the sky above me, the precipitation shafts swept across the road and the car was pelted with gusts of wind, heavy rain, and, briefly, some hail.
+
+Relatively unscathed, I sat south of the storm, but the view wasn't that great because of all the precipitation. I watched the lightning for a bit and ate the second half of my Subway sandwich, then travelled into North Platte for the night. 
+
+North Platte, of all places!
+
+I am beat! I don't see anything interesting for tomorrow. Maybe I'll sleep in and take it slow.

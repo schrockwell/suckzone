@@ -1,0 +1,9 @@
+---
+layout: post
+title: Chaser Positioning System
+archived: true
+---
+
+Well the car is locked down, wired up, and tricked out. Thanks to the amalgamation of several disparate technologies, you, the cyber-chaser, can now follow along in our misadventures. The patented Chaser Positioning System™ - CPS for short - provides real-time updates of location, speed, bearing, and position relative to storms. It will also have a near-real-time webcam feed from the car dashboard (provided I can fix the program that enables this feature during the car ride).
+
+"You can access the CPS here.":http://conceptware.net/gps/default2.aspx

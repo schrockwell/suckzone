@@ -1,0 +1,73 @@
+---
+layout: post
+title: Wrecked
+summary: Crashed the car far from home and close to storms. Adventure ensues.
+galleryflashvars: host=picasaweb.google.com&hl=en_US&feat=flashalbum&RGB=0x000000&feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fschrockwell%2Falbumid%2F5347306570023753953%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCLSh3YqGycuSzgE%26hl%3Den_US
+published: true
+category: summary
+archived: true
+---
+
+h3. Summary
+
+* *"Route map":http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&ll=38.822591,-98.920898&spn=8.317097,19.775391&z=6&msid=106942326439865455629.00046c56c9135eff3996f* (outgoing only)
+* *"Photo gallery":http://picasaweb.google.com/schrockwell/June52009NebraskaWreck?authkey=Gv1sRgCLSh3YqGycuSzgE*
+* *Trip meter:* about 750 miles each way
+* *Time:* 12+ hours each way
+* *From:* Norman, OK, to Lisco, NE, and back
+* *States:* Oklahoma, Kansas, Colorado, Nebraska
+* *Summary:* Things were looking up. Then down. Then up. Yes, I rolled the car over in the middle of nowhere
+
+h3. The set-up
+
+Upslope flow! Good low-level shear! Sufficient moisture! Decent upper-level winds! The Storm Prediction Center promised all this, and more! There was a nice 10% tornado area in the WY/NE/CO/KS corner area. 
+
+VORTEX2 nailed it and scored big today in Wyoming. Even though we left at 7 AM, we could not get to this storm in time.
+
+This was intended to be a multi-day chase. We were to chase in the western Nebraska area today, then go due east on I-80 for another chase day in the eastern part of the state, and then probably make an easy drive back to Norman on Saturday night or Sunday.
+
+h3. The chase
+
+I chased on this Friday with Travis and Astrid. We left Norman at 7 AM, targeting Goodland, KS. This would put us on the edge of the high-tornado-risk area, and we could decide where to go from there. The drive was long, but Travis and Astrid made great company, and it was fun seeing the sights and talking. 
+
+Along the way, I broadcast on the amateur radio national calling frequency, 146.52 MHz. I knew there were other chasers in the area, so I thought I might get in touch with one. The one chaser who responded? Kevin Manross, who was chasing with Doug Crauder and John (see "Ponca City Bust":http://rockwellschrock.com/storm-blog/summary/2009/06/09/ponca-city-bust.html). They were a few miles behind us on I-70. 
+
+They were headed towards the Wyoming storms, which were ongoing at this point. We decided to follow them. Kevin is an experienced chaser, and he was glad to have us along. At one turn, we hesitated and hung back a little, waiting for things to develop closer to our position. I think this was in NE Colorado. They went on ahead, so we didn't see them the rest of the trip.
+
+The Wyoming storms were moving into western Nebraska, and they were looking better and better. We decided to follow suit and go further north.
+
+As we got closer and were on I-80 west towards Sidney, a big tower popped up to our southeast. It formed explosively with "a nice pileus cap":http://picasaweb.google.com/lh/photo/OQbQu_f-tqZi6EkRaE4dNg?authkey=Gv1sRgCLSh3YqGycuSzgE&feat=directlink, and "a tilted-over appearance":http://picasaweb.google.com/lh/photo/YFim--NxMi9shKib6gmBIQ?authkey=Gv1sRgCLSh3YqGycuSzgE&feat=directlink. In fact, it was _too_ tilted over. By the time we had turned around and gotten back in front of it, you could see that it had stopped ingesting good air and it was simply hanging there, not doing much. The top of the tower was directly above us, and we were many miles away from its base. "The whole structure was really funky":http://picasaweb.google.com/lh/photo/b9qj4bJ22HvFr8yHBw4n6A?authkey=Gv1sRgCLSh3YqGycuSzgE&feat=directlink.
+
+By now, the ongoing storms were pretty close, and we couldn't backtrack to the west, towards them, because then we would not have time to cut in front of them and get into a decent position. We had to go due north to cut them off. 
+
+I think we went north near Lodgepole, NE. All the roads in this area are one-square-mile-grid dirt roads. They were dry and in good condition, as dirt and gravel roads go, so we made the most of it. We were headed towards route 26, a paved highway that runs NW/SE, and would have put us in prime position to stay in front of these cells to our E/NE for the remainder of daylight.
+
+h3. The accident
+
+Astrid was driving, but she got too excited with the storm getting so close, so we pulled over and I took the wheel again. We were about three miles south of Lisco, NE when the accident happened. The road crested a hill that sloped down into the North Platte River valley. I tapped the brakes at the top of the hill, because I could not see what was coming up over the hill. The tires skidded on the loose road surface and the car swerved to the right a little. I corrected back to the left and the car went into the wide left-hand ditch. I think I corrected the wheel back to the right and that's when the nose of the car dug into the soft earth and rolled over. It all seemed to happen in slow motion, and I couldn't believe it was happening as the ground filled the windshield. It was surprisingly soft and not jerky at all. The car landed on its wheels. We're still not sure if the car rolled completely, because of the sporadic damage, but it sure felt it. There was a lot of flattened grass as well, and many loose items in the car had definitely made it to the roof and back.
+
+We were all wearing our seat belts, and everybody was perfectly fine. Astrid had been beaten up by her huge purse with her laptop in it, and I had some small cuts on my arm from broken glass, but miraculously we all walked away. We surveyed the damage. My subwoofer in the trunk had come loose and broken the right-rear window. The whole driver's side of the car was crunched in. Luckily, the driver's window had been left behind in the road, because I had to climb out the window of the door, which wouldn't open. Three tires were blown out. The front and hood were all crushed in, but there was little damage anywhere else. Also my magnetic-mount ham radio antenna had come off the roof, so it must have struck the ground.
+
+h3. The rescue
+
+Well. Nobody was hurt, and no property was damaged but my own, so we didn't need to call an emergency rescue. Who's the next logical person to call? At the time, it seemed obvious: AAA! I spent a long time on the phone with them getting a wrecker to come get us. It was 60 miles away, in Sidney, NE, so we would have to wait. We also got back in touch with Doug and gave him our coordinates so he could come pick us up. No problem.
+
+I'm kidding, of course. The storm, originally passing to our north, turned right a little and began to track directly over us. It has a severe thunderstorm warning, and it was "a beautiful mothership supercell":http://picasaweb.google.com/lh/photo/ukJhU7axzVhbfBHJ_kIdEg?authkey=Gv1sRgCLSh3YqGycuSzgE&feat=directlink. At the last moment, chaser "Cory Schuler":http://www.chaseteamfanclub.com/cory.html passed by just as the storm was about to eat us alive. We piled into the back of his Subaru and he took us north to Lisco. We took shelter in the local fine dining establishment, The Roost, just before the storm hit. The rain was heavy and there was some pea-size hail. Then the storm got a tornado warning on it, and GRLevel3 confirmed a broad but well-defined couplet. That storm was trying to produce! If it had, we would not have been able to see or hear anything because of the heavy rain. We would have been toast - Nebraskan toast, with gravy on top.
+
+Well the storm passed and didn't produce a tornado. The wrecker showed up, unable to traverse the mud-slicked roads. Some kind locals took us back to the car in their Dodge Ram, and despite the four-wheel-drive, the truck slid all over the muddy road. A state trooper had somehow arrived to the scene, and he gave me an accident report to mail in. I grabbed my things and then the wrecker guy took us back to Sidney. 
+
+Doug and Kevin would have come to get us, but they were far away, getting into position for the next day's chase. We were going to meet up with them the next day if necessary.
+
+h3. Getting home
+
+Seven hundred miles. Car-less. No rental cars within fifty miles. It was a Saturday, so most rental places are only open a few hours in the morning, so we would only have one shot to get a car. It was a bleak prospect. Madison Burnett, a fellow Hollings student, had also chased with some friends and spent the night in Ogallala, about an hour east. She came out of her way to pick up Travis and Astrid. They drove _another hour_ to Sterling, CO, where we could get a rental car home, as Madison had no room for three of us in her car. When they got to Sterling, they were told that there were no rentals available. Astrid explained our situation and they were magically able to find something for us. Whew. Astrid and Travis picked me up in Sidney and we uneventfully booked it back to Norman.
+
+So ends that adventure. The Matrix was a great car and it treated me well. We will all miss its distinctive yellow color and its ability to stand out in the masses of dreary cars. RIP Matrix.
+
+h3. A statement to the storm chasing community
+
+I understand the word of my accident has spread throughout the chasing community. In fact, my NOAA mentors learned of the accident through VORTEX2 before I had the chance to tell them myself.
+
+I do not chase recklessly, and I do not wish it to be thought that this is the case. I always emphasize safety when I chase, and I always bring this up when I tell others about how I chase. I am humbled by my accident, and I hope it does not reflect poorly on the chase community by portraying them as daredevil thrill-seekers. That's not what chasing is about.
+
+I hope that other chasers may learn from my mistakes. Take it slowly on both unkempt back roads and paved ones. Have a solid backup plan if things go horribly wrong. Never, ever take these storms for granted - they will mess you up. Luckily this storm didn't, but this story could have ended any number of grim ways.
