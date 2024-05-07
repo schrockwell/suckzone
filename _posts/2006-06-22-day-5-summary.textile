@@ -37,11 +37,11 @@ h3. Final Thoughts
 
 h3. Audio
 
-* 12:01 PM - <embed autoplay="false" src="/storm-blog/audio/062206_1201.mp3" width="200" height="20">
-* 3:06 PM - <embed autoplay="false" src="/storm-blog/audio/062206_1506.mp3" width="200" height="20">
-* 3:42 PM - <embed autoplay="false" src="/storm-blog/audio/062206_1542.mp3" width="200" height="20">
-* 3:58 PM - <embed autoplay="false" src="/storm-blog/audio/062206_1558.mp3" width="200" height="20">
-* 5:03 PM - <embed autoplay="false" src="/storm-blog/audio/062206_1703.mp3" width="200" height="20">
+* 12:01 PM - <audio controls><source src="/storm-blog/audio/062206_1201.mp3" type="audio/mpeg"></audio>
+* 3:06 PM - <audio controls><source src="/storm-blog/audio/062206_1506.mp3" type="audio/mpeg"></audio>
+* 3:42 PM - <audio controls><source src="/storm-blog/audio/062206_1542.mp3" type="audio/mpeg"></audio>
+* 3:58 PM - <audio controls><source src="/storm-blog/audio/062206_1558.mp3" type="audio/mpeg"></audio>
+* 5:03 PM - <audio controls><source src="/storm-blog/audio/062206_1703.mp3" type="audio/mpeg"></audio>
 
 h3. Photos
 

@@ -4,7 +4,7 @@ title: "Video: Curse of the Windshield"
 archived: true
 ---
 <div style="text-align:center">
-	<embed align="middle" flashvars="playerMode=embedded" salign="TL" scale="noScale" bgcolor="#ffffff" quality="best" id="VideoPlayback" src="http://video.google.com/googleplayer.swf?docId=287300482430396378&amp;hl=en" type="application/x-shockwave-flash" style="width: 400px; height: 326px;">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/Jxh6MqeqPqo?si=OOrtH2WBEMVPmUxe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 So the windshield screwed us over for this week. The earliest I could get it replaced would be Tuesday, and by the time that happened and we drove west, the trough in the southern Plains which would have produced the severe weather would have passed. We could be on the road right now, but instead we'll have to wait for a few more days.

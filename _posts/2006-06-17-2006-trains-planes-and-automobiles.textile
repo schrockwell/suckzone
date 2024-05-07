@@ -10,4 +10,4 @@ Just checking in from Logan! I'm here excessively early, as always, with over an
 Okay, enough with the boring details. More posts to come.
 
 Update after meeting up with the tour group and having dinner:
-<embed autoplay="false" src="/storm-blog/audio/061706_0947.mp3" width="200" height="20">
+<audio controls><source src="/storm-blog/audio/061706_0947.mp3" type="audio/mpeg"></audio>

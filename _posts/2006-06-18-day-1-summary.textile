@@ -28,9 +28,9 @@ h3. Realtime Summary
 
 (Note the time zone change)
 
-* 11:15 AM MDT - <embed autoplay="false" src="/storm-blog/audio/061806_1115_mdt.mp3" width="200" height="20">
+* 11:15 AM MDT - <audio controls><source src="/storm-blog/audio/061806_1115_mdt.mp3" type="audio/mpeg"></audio>
 * 1:33 PM MDT - Currently going E on I-76, 20 mi from NE. Watching an outflow boundary developing in central NE. Targetting North Platte for lunch and gas.
-* 4:04 PM CDT - <embed autoplay="false" src="/storm-blog/audio/061806_1604_cdt.mp3" width="200" height="20">
+* 4:04 PM CDT - <audio controls><source src="/storm-blog/audio/061806_1604_cdt.mp3" type="audio/mpeg"></audio>
 * 5:23 PM CDT - Heading E on 92 towards a scattered cu. field. Beautiful country out here; a little hilly and lots of green. Cows (moo) and horses! So cool.
 
 h3. Final Thoughts

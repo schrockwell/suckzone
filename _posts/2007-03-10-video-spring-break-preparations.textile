@@ -4,6 +4,6 @@ title: "Video: Spring Break Preparations"
 archived: true
 ---
 
-<div style="text-align: center">
-	<embed align="middle" flashvars="playerMode=embedded" salign="TL" scale="noScale" bgcolor="#ffffff" quality="best" src="http://video.google.com/googleplayer.swf?docId=-6302705678129860588&amp;hl=en" type="application/x-shockwave-flash" id="VideoPlayback" style="width: 400px; height: 326px;">
+<div style="text-align:center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/kd4R2FrrxSY?si=y8RwdLuCQiFS9C5z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>

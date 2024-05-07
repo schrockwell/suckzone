@@ -9,4 +9,6 @@ I was going to write a long and detailed post about the multitude of technology 
 
 There are also "some pictures of the equipment":http://picasaweb.google.com/schrockwell/Preparaton?authkey=Gv1sRgCP6QgZ-IkvsF&feat=directlink.
 
-p=. <object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/lPW68sK6bH8&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/lPW68sK6bH8&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295"></embed></object>
+<div style="text-align:center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/lPW68sK6bH8?si=Z4xBPbqlUm2bZmAb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>

@@ -49,13 +49,13 @@ h3. Final Thoughts
 
 h3. Audio
 
-* 9:40 AM - <embed autoplay="false" src="/storm-blog/audio/062006_0940.mp3" width="200" height="20">
-* 12:42 PM - <embed autoplay="false" src="/storm-blog/audio/062006_1242.mp3" width="200" height="20">
-* 3:52 PM - <embed autoplay="false" src="/storm-blog/audio/062006_1552.mp3" width="200" height="20">
-* 6:33 PM - <embed autoplay="false" src="/storm-blog/audio/062006_1833.mp3" width="200" height="20">
-* 7:26 PM - <embed autoplay="false" src="/storm-blog/audio/062006_1926.mp3" width="200" height="20">
-* 8:03 PM - <embed autoplay="false" src="/storm-blog/audio/062006_2003.mp3" width="200" height="20">
-* 10:38 PM - <embed autoplay="false" src="/storm-blog/audio/062006_2238.mp3" width="200" height="20">
+* 9:40 AM - <audio controls><source src="/storm-blog/audio/062006_0940.mp3" type="audio/mpeg"></audio>
+* 12:42 PM - <audio controls><source src="/storm-blog/audio/062006_1242.mp3" type="audio/mpeg"></audio>
+* 3:52 PM - <audio controls><source src="/storm-blog/audio/062006_1552.mp3" type="audio/mpeg"></audio>
+* 6:33 PM - <audio controls><source src="/storm-blog/audio/062006_1833.mp3" type="audio/mpeg"></audio>
+* 7:26 PM - <audio controls><source src="/storm-blog/audio/062006_1926.mp3" type="audio/mpeg"></audio>
+* 8:03 PM - <audio controls><source src="/storm-blog/audio/062006_2003.mp3" type="audio/mpeg"></audio>
+* 10:38 PM - <audio controls><source src="/storm-blog/audio/062006_2238.mp3" type="audio/mpeg"></audio>
 
 h3. Photos
 

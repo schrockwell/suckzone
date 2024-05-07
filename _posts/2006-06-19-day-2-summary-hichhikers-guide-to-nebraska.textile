@@ -51,11 +51,11 @@ h3. Final Thoughts
 
 h3. Audio
 
-* 3:52 PM - <embed autoplay="false" src="/storm-blog/audio/061906_1552.mp3" width="200" height="20">
-* 5:39 PM - <embed autoplay="false" src="/storm-blog/audio/061906_1739.mp3" width="200" height="20">
-* 7:50 PM - <embed autoplay="false" src="/storm-blog/audio/061906_1950.mp3" width="200" height="20">
-* 8:55 PM - <embed autoplay="false" src="/storm-blog/audio/061906_2055.mp3" width="200" height="20">
-* 10:09 PM - <embed autoplay="false" src="/storm-blog/audio/061906_2209.mp3" width="200" height="20">
+* 3:52 PM - <audio controls><source src="/storm-blog/audio/061906_1552.mp3" type="audio/mpeg"></audio>
+* 5:39 PM - <audio controls><source src="/storm-blog/audio/061906_1739.mp3" type="audio/mpeg"></audio>
+* 7:50 PM - <audio controls><source src="/storm-blog/audio/061906_1950.mp3" type="audio/mpeg"></audio>
+* 8:55 PM - <audio controls><source src="/storm-blog/audio/061906_2055.mp3" type="audio/mpeg"></audio>
+* 10:09 PM - <audio controls><source src="/storm-blog/audio/061906_2209.mp3" type="audio/mpeg"></audio>
 
 h3. Photos
 

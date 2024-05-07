@@ -37,7 +37,7 @@ h3. Final Thoughts
 
 h3. Audio
 
-* 4:42 PM - <embed autoplay="false" src="/storm-blog/audio/062306_1642.mp3" width="200" height="20">
+* 4:42 PM - <audio controls><source src="/storm-blog/audio/062306_1642.mp3" type="audio/mpeg"></audio>
 
 h3. Photos
 
